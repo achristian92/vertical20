@@ -1,0 +1,8 @@
+[02-Apr-2021 11:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/vgreenp/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/vgreenp/public_html/wp-content/plugins/hello.php on line 69
+[02-Apr-2021 11:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/vgreenp/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/vgreenp/public_html/wp-content/plugins/hello.php on line 69
